@@ -10,7 +10,7 @@ So far I have learned the intracacies of Git and all that it has to offer. I hav
 
 ## Update
 
-I have now finished the project and learned a bunch along the way. I even learned a new way to display fractions with '&frac', solidified my understanding of HTML, and became comfortable with using several HTML elements.
+I have now finished the project and learned a bunch along the way. I even learned a new way to display fractions with `&frac`, solidified my understanding of HTML, and became comfortable with using several HTML elements.
 
 The project features a recipe website that links you to different recipes pages that I have created. I added some slight CSS customization of my own for an extra challenge, as well as using some extra HTML feature I learned along the way.
 
